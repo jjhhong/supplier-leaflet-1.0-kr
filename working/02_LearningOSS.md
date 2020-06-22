@@ -148,7 +148,7 @@ With some OSS licenses, the copyright holder of OSS grants others the right to f
 
 ライセンスによっては、OSS の開発に関わった人や企業が持つ 特許の中に、その OSS のみで構成可能な特許がある場合は、そ れらの特許を無償かつ無条件で永続的に認めることがあります。 これはすべての OSS ライセンスで見られるわけではありませ ん。代表的なものとしてはApache LicenseやGNU General Public License(GPL)バージョン3などが挙げられます。
 
-> ## 라이센스에 따라 무엇이 허가되는지 (특허권)
+> ## 라이센스에 따라 무엇이 허가되는가? (특허권)
 
 라이선스에 따라 OSS 개발에 관련된 사람이나 기업이 가진 특허 중에 그 OSS만으로 구성 가능한 특허가 있는 경우에는 이들 특허를 무상 또는 무조건 영구적인 사용을 인정할 수 있습니다. 이것은 모든 OSS 라이선스에서 나타나는 것은 아닙니다. 대표적인 라이선스로는 Apache License와 GNU General Public License (GPL) 버전 3 등을 들 수 있습니다.
 
